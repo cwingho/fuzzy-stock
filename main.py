@@ -13,6 +13,7 @@ datatype = 'json'
 series_type = 'close'
 
 # api key
+# please fill in your alpha vantage api key
 api_key = list(['xxxxxxxxxxxxxxxx','xxxxxxxxxxxxxxxx','xxxxxxxxxxxxxxxx','xxxxxxxxxxxxxxxx'])
 
 # MACD
